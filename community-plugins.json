@@ -18024,4 +18024,11 @@
     "description": "Visualize your Vault in 3D with a powerful, highly customizable, and filterable graph.",
     "repo": "Apoo711/obsidian-3d-graph"
   }
+  {
+  "id": "obsidian-to-hexo-converter",
+  "name": "Obsidian to Hexo Converter",
+  "author": "MathLeee",
+  "description": "Convert Obsidian Markdown files to Hexo-compatible format with Cyberpunk 2077 styled Note cards. Supports internal links, cross-document links, and image references conversion.",
+  "repo": "MathLeee/Ob2Hexo"
+  }
 ]
